@@ -1,0 +1,8 @@
+{
+  "name": "Truth Lens - Misinformation Triage Platform",
+  "description": "A high-speed, minimalist civic tech platform built to triage viral misinformation claims across social media in India with automated risk flags, editorial workflows, and transparent decision policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
