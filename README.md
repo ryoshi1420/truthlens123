@@ -1,5 +1,7 @@
 # Truth Lens - Civic Misinformation Triage Platform 🇮🇳
 
+**Hackathon ID:** `AZIS-VMHP6D`
+
 A high-speed, minimalist civic technology platform designed to triage viral misinformation claims across social media in India (WhatsApp, X, Instagram, Facebook, and Telegram).
 
 Built neutral by design: **it checks factual information, not ideologies.**
@@ -40,6 +42,8 @@ Built neutral by design: **it checks factual information, not ideologies.**
 ---
 
 ## ⚖️ Decision Points (20 PTS Civic Tech Analysis)
+
+Detailed breakdown and justification can be reviewed in [**DECISIONS.md**](./DECISIONS.md).
 
 - **DP1 · Feed Order**: Why ordering by **Risk Score First** prevents viral contagion before peak spread, compared to pure recency or status queues.
 - **DP2 · Visibility**: The trade-off between **Public Visibility with Warning Badges** (crowdsourcing inputs) versus **Quarantine Mode** (holding unverified claims back to prevent accidental amplification).
